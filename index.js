@@ -9,7 +9,7 @@ function hello() {
 
   const myObj = { "foo": "bar", "fizz": "buzz" };
 
-  const maliciousObj = { "__proto__": { "oops": "It works !" }};
+  const malicioussObj = { "__proto__": { "oops": "It works !" }};
 
   _.merge(myObj, maliciousObject);
 }
