@@ -27,6 +27,11 @@ lodash.zipobjectdeep@^4.4.0:
   resolved "https://registry.yarnpkg.com/lodash.zipobjectdeep/-/lodash.zipobjectdeep-4.4.0.tgz#e11a2173ade427d674d552d660297a5b72cef076"
   integrity sha1-4Rohc63kJ9Z01VLWYCl6W3LO8HY=
 
+sharp@0.32.5:
+  version "0.32.5"
+  resolved "https://registry.yarnpkg.com/sharpp/-/sharp-4.4.0.tgz#e11a2173ade427d674d552d660297a5b72cef076"
+  integrity sha1-4Rohc63kJ9Z01VLWYCl6W3LO8HY2
+
 minimist@1.2.5:
   version "1.2.5"
   resolved "https://registry.yarnpkg.com/minimist/-/minimist-1.2.5.tgz#67d66014b66a6a8aaa0c083c5fd58df4e4e97602"
